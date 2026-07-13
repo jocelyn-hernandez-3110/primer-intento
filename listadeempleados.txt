@@ -1,7 +1,38 @@
-Código	Empleado	Días Laborales  	    Turno / Horario
-3110	Jocelyn 	No aplica	        Jefa (Sin horario fijo)
-1001	Carlos Mendoza	Lunes a Viernes	        Matutino (7:00 a.m. - 3:00 p.m.)
-1002	Ana Rodríguez	Lunes a Viernes 	Vespertino (3:00 p.m. - 11:00 p.m.)
-1003	Luis Fuentes	Sábado y Domingo	Primer Horario (7:00 a.m. - 3:00 p.m.)
-1004	Sofía Gómez	Sábado y Domingo	Segundo Horario (3:00 p.m. - 11:00 p.m.)
-1005	Diego Torres	Sábado y Domingo	Tercer Horario (11:00 p.m. - 7:00 a.m.)
+[
+  {
+    "Código": 3110,
+    "Empleado": "Jocelyn",
+    "Días Laborales": "No aplica",
+    "Turno / Horario": "Jefa (Sin horario fijo)"
+  },
+  {
+    "Código": 1001,
+    "Empleado": "Carlos Mendoza",
+    "Días Laborales": "Lunes a Viernes",
+    "Turno / Horario": "Matutino (7:00 a.m. - 3:00 p.m.)"
+  },
+  {
+    "Código": 1002,
+    "Empleado": "Ana Rodríguez",
+    "Días Laborales": "Lunes a Viernes",
+    "Turno / Horario": "Vespertino (3:00 p.m. - 11:00 p.m.)"
+  },
+  {
+    "Código": 1003,
+    "Empleado": "Luis Fuentes",
+    "Días Laborales": "Sábado y Domingo",
+    "Turno / Horario": "Primer Horario (7:00 a.m. - 3:00 p.m.)"
+  },
+  {
+    "Código": 1004,
+    "Empleado": "Sofía Gómez",
+    "Días Laborales": "Sábado y Domingo",
+    "Turno / Horario": "Segundo Horario (3:00 p.m. - 11:00 p.m.)"
+  },
+  {
+    "Código": 1005,
+    "Empleado": "Diego Torres",
+    "Días Laborales": "Sábado y Domingo",
+    "Turno / Horario": "Tercer Horario (11:00 p.m. - 7:00 a.m.)"
+  }
+]
