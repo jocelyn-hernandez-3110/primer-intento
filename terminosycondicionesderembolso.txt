@@ -1,62 +1,40 @@
-{
-  "politicas_de_devolucion": {
-    "1_plazos_de_devolucion": {
-      "productos_perecederos": {
-        "ejemplos": [
-          "Lácteos",
-          "embutidos",
-          "panadería",
-          "carnes",
-          "frutas y verduras"
-        ],
-        "tiempo_maximo": "24 horas desde el momento de la compra"
-      },
-      "productos_no_perecederos": {
-        "ejemplos": [
-          "Enlatados",
-          "abarrotes secos",
-          "aceites",
-          "productos de limpieza",
-          "cuidado personal"
-        ],
-        "tiempo_maximo": "7 días naturales desde la fecha de compra"
-      }
-    },
-    "2_condiciones_obligatorias": {
-      "requisitos": [
-        "Presentar el ticket, nota de remisión o factura original de compra (sin excepciones).",
-        "El producto debe estar en su empaque original, cerrado y con los sellos intactos (a menos que el motivo sea un defecto oculto de fábrica o estado de descomposición interna previa a la apertura).",
-        "No mostrar signos de mal manejo, exposición directa al sol, humedad o almacenamiento inadecuado por parte del cliente."
-      ],
-      "nota_sobre_inocuidad": "No se aceptan devoluciones de productos con empaques abiertos, violados o dañados por causas externas al establecimiento, ya que pierden su garantía de sanidad."
-    },
-    "3_motivos_validos_de_devolucion": [
-      {
-        "motivo": "Producto caducado o descompuesto",
-        "solucion_aplicable": "Cambio físico inmediato o reembolso total."
-      },
-      {
-        "motivo": "Defecto de fábrica (empaque roto de origen, falta de sello)",
-        "solucion_aplicable": "Cambio físico inmediato o reembolso total."
-      },
-      {
-        "motivo": "Error de surtido (artículo cobrado o entregado por error)",
-        "solucion_aplicable": "Ajuste físico de la mercancía o saldo a favor."
-      },
-      {
-        "motivo": "Cambio de opinión del cliente",
-        "solucion_aplicable": "Solo aplica en productos no perecederos cerrados. Se emite vale de tienda."
-      }
-    ],
-    "4_metodos_de_reembolso": {
-      "pago_en_efectivo": "Se devuelve en efectivo de forma inmediata en cajas.",
-      "pago_con_tarjeta_credito_debito": "Se realiza la cancelación en la terminal. El tiempo de reflejo en la cuenta depende exclusivamente del banco emisor (habitualmente de 3 a 10 días hábiles).",
-      "compras_al_mayoreo_o_credito": "Se aplicará una nota de crédito que podrá ser descontada de su siguiente saldo o factura pendiente."
-    },
-    "5_excepciones_y_restricciones": [
-      "Productos que hayan sido adquiridos en la sección de 'Liquidación', 'Ofertas Especiales' o con descuento por fecha de caducidad próxima debidamente señalada.",
-      "Bebidas alcohólicas y cigarros (por disposiciones fiscales y de salud pública).",
-      "Mercancía maltratada de forma evidente por transporte ajeno a nuestra empresa o negligencia del comprador."
-    ]
-  }
-}
+Productos Perecederos (Lácteos, embutidos, panadería, carnes, frutas y verduras): Máximo 24 horas
+desde el momento de la compra.
+Productos No Perecederos (Enlatados, abarrotes secos, aceites, productos de limpieza, cuidado
+personal): Máximo 7 días naturales desde la fecha de compra.
+2. Condiciones Obligatorias del Producto
+Para que una devolución sea autorizada, el artículo debe cumplir rigurosamente con lo siguiente:
+Presentar el ticket, nota de remisión o factura original de compra (sin excepciones).
+El producto debe estar en su empaque original, cerrado y con los sellos intactos (a menos que el
+motivo sea un defecto oculto de fábrica o estado de descomposición interna previa a la apertura).
+No mostrar signos de mal manejo, exposición directa al sol, humedad o almacenamiento inadecuado por
+parte del cliente.
+NOTA SOBRE INOCUIDAD: No se aceptan devoluciones de productos con empaques abiertos,
+violados o dañados por causas externas al establecimiento, ya que pierden su garantía de
+sanidad.
+
+3. Motivos Válidos de Devolución
+
+Motivo 	Solución Aplicable
+Producto caducado o
+descompuesto	Cambio físico inmediato o reembolso total.
+Defecto de fábrica (empaque roto
+de origen, falta de sello)	Cambio físico inmediato o reembolso total.
+Error de surtido (artículo cobrado
+o entregado por error)	Ajuste físico de la mercancía o saldo a favor.
+Cambio de opinión del cliente	Solo aplica en productos no perecederos cerrados. Se emite vale de tienda.
+
+4. Métodos de Reembolso
+Una vez aprobada la devolución, el reembolso se procesará bajo los siguientes criterios:
+Pago en Efectivo: Se devuelve en efectivo de forma inmediata en cajas.
+Pago con Tarjeta (Crédito/Débito): Se realiza la cancelación en la terminal. El tiempo de reflejo en la
+cuenta depende exclusivamente del banco emisor (habitualmente de 3 a 10 días hábiles).
+Compras al Mayoreo o Crédito: Se aplicará una nota de crédito que podrá ser descontada de su
+siguiente saldo o factura pendiente.
+5. Excepciones y Restricciones (No Sujetos a Devolución)
+Bajo ninguna circunstancia se aceptará la devolución de:
+Productos que hayan sido adquiridos en la sección de "Liquidación", "Ofertas Especiales" o con
+descuento por fecha de caducidad próxima debidamente señalada.
+Bebidas alcohólicas y cigarros (por disposiciones fiscales y de salud pública).
+Mercancía maltratada de forma evidente por transporte ajeno a nuestra empresa o negligencia del
+comprador.
