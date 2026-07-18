@@ -1,7 +1,5 @@
-Código	Empleado	Días Laborales  	    Turno / Horario
-3110	Jocelyn 	No aplica	        Jefa (Sin horario fijo)
-1001	Carlos Mendoza	Lunes a Viernes	        Matutino (7:00 a.m. - 3:00 p.m.)
-1002	Ana Rodríguez	Lunes a Viernes 	Vespertino (3:00 p.m. - 11:00 p.m.)
-1003	Luis Fuentes	Sábado y Domingo	Primer Horario (7:00 a.m. - 3:00 p.m.)
-1004	Sofía Gómez	Sábado y Domingo	Segundo Horario (3:00 p.m. - 11:00 p.m.)
-1005	Diego Torres	Sábado y Domingo	Tercer Horario (11:00 p.m. - 7:00 a.m.)
+Jocelyn (Código 3110) desempeña el rol de Jefa y no cuenta con un horario fijo, por lo que la restricción de días laborales no aplica en su caso. 
+Carlos Mendoza (Código 1001) labora de Lunes a Viernes en el turno Matutino, cumpliendo un horario de 7:00 a.m. a 3:00 p.m. 
+Ana Rodríguez (Código 1002) labora de Lunes a Viernes en el turno Vespertino, cumpliendo un horario de 3:00 p.m. a 11:00 p.m.
+Luis Fuentes (Código 1003) trabaja exclusivamente los días Sábado y Domingo en el Primer Horario, el cual es de 7:00 a.m. a 3:00 p.m. 
+Sofía Gómez (Código 1004) trabaja exclusivamente los días Sábado y Domingo en el Segundo Horario, el cual abarca desde las 3:00 p.m. hasta las 11:00 p.m.  Diego Torres (Código 1005) trabaja exclusivamente los días Sábado y Domingo en el Tercer Horario, cubriendo el turno nocturno de 11:00 p.m. a 7:00 a.m.  
